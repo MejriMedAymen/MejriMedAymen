@@ -3,10 +3,12 @@
 <h2>👨‍💻 Projects:</h2>
 
 
- 
- 
+
 <h2>📜 Certification</h2>
-- <b>Data Engineering Foundations Professional Certificate by Astronomer </b>
+
+- <b>Data Engineering Foundations Professional Certificate by Astronomer</b>
+  
+- <b>Introduction to Data Science in Python</b>
  
 
 
