@@ -7,8 +7,14 @@
 <h2>📜 Certification</h2>
 
 - <b>Data Engineering Foundations Professional Certificate by Astronomer</b>
+
+- <b>Program Databases with Transact-SQL </b>
   
 - <b>Introduction to Data Science in Python</b>
+
+- <b>NVIDIA DLI Certificate – Fundamentals of Deep Learning</b>
+
+
  
 
 
