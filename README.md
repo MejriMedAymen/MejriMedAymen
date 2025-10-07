@@ -1,7 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Aymen! <br/><a href="">Data Engineer</a>, <a href="">BI Engineer</a>
+
+<h2>👨‍💻 Projects:</h2>
+
+
+ 
+ 
+<h2>📜 Certification</h2>
+- <b>Data Engineering Foundations Professional Certificate by Astronomer </b>
+ 
+
+
+
+
+
 
 <!--
-**MejriMedAymen/MejriMedAymen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
