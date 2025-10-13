@@ -1,7 +1,8 @@
 <h1>Hi, I'm Aymen! <br/><a href="">Data Engineer</a>, <a href="">BI Engineer</a>
 
 <h2>👨‍💻 Projects:</h2>
-
+- <b>Web Scraping</b>
+- [Web Scraping From Welcome to the jungle](https://github.com/MejriMedAymen/Web-Scraping-From-Welcome-to-the-jungle)
 
 
 <h2>📜 Certification</h2>
